@@ -148,3 +148,5 @@ whole thing is rebuilt each patch anyway, that difference is small.
 ---
 
 *diablo-4-multi-tool-pack · Updated 2026-10-24 · Shared under the MIT License*
+
+<!-- last reviewed 2026-10-24 -->
